@@ -1,0 +1,65 @@
+2021-04-03 15:55:51,175;1617458151.175384;INFO;Nuova esecuzione dello script
+2021-04-03 15:55:51,175;1617458151.175384;INFO;Esecuzione script estrazioneComuni.py
+2021-04-03 15:55:51,176;1617458151.176383;INFO;Recupero informazioni sui comuni
+2021-04-03 15:55:51,241;1617458151.241383;INFO;Apertura connessione con database: host: 127.0.0.1, user: root password: , database: raccolta_beni_alimentari
+2021-04-03 15:55:51,242;1617458151.242379;INFO;Scrittura su database
+2021-04-03 15:55:53,794;1617458153.794632;INFO;Chiusura connessione con il database
+2021-04-03 15:55:53,795;1617458153.795590;INFO;Esecuzione script estrazioneComuni.py terminata!
+
+2021-04-03 15:56:10,260;1617458170.260385;INFO;Nuova esecuzione dello script
+2021-04-03 15:56:10,261;1617458170.261388;INFO;Esecuzione script estrazioneComuni.py
+2021-04-03 15:56:10,261;1617458170.261388;INFO;Recupero informazioni sui comuni
+2021-04-03 15:56:10,339;1617458170.339387;INFO;Apertura connessione con database: host: 127.0.0.1, user: root password: , database: raccolta_beni_alimentari
+2021-04-03 15:56:10,340;1617458170.340387;INFO;Scrittura su database
+2021-04-03 15:56:13,099;1617458173.099531;INFO;Chiusura connessione con il database
+2021-04-03 15:56:13,099;1617458173.099531;INFO;Esecuzione script estrazioneComuni.py terminata!
+
+2021-04-04 00:14:47,336;1617488087.336856;INFO;Nuova esecuzione dello script
+2021-04-04 00:14:47,336;1617488087.336856;INFO;Esecuzione script estrazioneComuni.py
+2021-04-04 00:14:47,336;1617488087.336856;INFO;Recupero informazioni sui comuni
+2021-04-04 00:18:26,952;1617488306.952279;INFO;Nuova esecuzione dello script
+2021-04-04 00:18:26,952;1617488306.952279;INFO;Esecuzione script estrazioneComuni.py
+2021-04-04 00:18:26,952;1617488306.952279;INFO;Recupero informazioni sui comuni
+2021-04-04 00:27:41,743;1617488861.743728;INFO;Nuova esecuzione dello script
+2021-04-04 00:27:41,743;1617488861.743728;INFO;Esecuzione script estrazioneComuni.py
+2021-04-04 00:27:41,744;1617488861.744730;INFO;Recupero informazioni sui comuni
+2021-04-11 18:28:52,120;1618158532.120278;INFO;Nuova esecuzione dello script
+2021-04-11 18:28:52,121;1618158532.121278;INFO;Esecuzione script estrazioneComuni.py
+2021-04-11 18:28:52,121;1618158532.121278;INFO;Recupero informazioni sui comuni
+2021-04-11 18:39:44,101;1618159184.101980;INFO;Nuova esecuzione dello script
+2021-04-11 18:39:44,102;1618159184.102941;INFO;Esecuzione script estrazioneComuni.py
+2021-04-11 18:39:44,102;1618159184.102941;INFO;Recupero informazioni sui comuni
+2021-04-11 18:45:55,726;1618159555.726052;INFO;Nuova esecuzione dello script
+2021-04-11 18:45:55,726;1618159555.726052;INFO;Esecuzione script estrazioneComuni.py
+2021-04-11 18:45:55,726;1618159555.726052;INFO;Recupero informazioni sui comuni
+2021-04-11 18:45:55,752;1618159555.752053;INFO;Apertura connessione con database: host: 127.0.0.1, user: root password: , database: raccolta_alimenti
+2021-04-11 18:45:55,753;1618159555.753051;INFO;Scrittura su database
+2021-04-11 18:45:56,828;1618159556.828050;INFO;Chiusura connessione con il database
+2021-04-11 18:45:56,828;1618159556.828050;INFO;Esecuzione script estrazioneComuni.py terminata!
+
+2021-04-11 18:47:03,012;1618159623.012794;INFO;Nuova esecuzione dello script
+2021-04-11 18:47:03,012;1618159623.012794;INFO;Esecuzione script estrazioneComuni.py
+2021-04-11 18:47:03,012;1618159623.012794;INFO;Recupero informazioni sui comuni
+2021-04-11 18:47:03,038;1618159623.038794;INFO;Apertura connessione con database: host: 127.0.0.1, user: root password: , database: raccolta_alimenti
+2021-04-11 18:47:03,038;1618159623.038794;INFO;Scrittura su database
+2021-04-11 18:47:32,720;1618159652.720646;INFO;Nuova esecuzione dello script
+2021-04-11 18:47:32,720;1618159652.720646;INFO;Esecuzione script estrazioneComuni.py
+2021-04-11 18:47:32,721;1618159652.721645;INFO;Recupero informazioni sui comuni
+2021-04-11 18:47:32,745;1618159652.745646;INFO;Apertura connessione con database: host: 127.0.0.1, user: root password: , database: raccolta_alimenti
+2021-04-11 18:47:32,745;1618159652.745646;INFO;Scrittura su database
+2021-04-13 16:00:35,107;1618322435.107156;INFO;Nuova esecuzione dello script
+2021-04-13 16:00:35,107;1618322435.107156;INFO;Esecuzione script estrazioneComuni.py
+2021-04-13 16:00:35,107;1618322435.107156;INFO;Recupero informazioni sui comuni
+2021-04-13 16:00:35,138;1618322435.138163;INFO;Apertura connessione con database: host: 127.0.0.1, user: root password: , database: raccolta_alimenti
+2021-04-13 16:00:35,138;1618322435.138163;INFO;Scrittura su database
+2021-04-13 16:00:37,830;1618322437.830490;INFO;Chiusura connessione con il database
+2021-04-13 16:00:37,830;1618322437.830490;INFO;Esecuzione script estrazioneComuni.py terminata!
+
+2021-04-13 16:01:28,625;1618322488.625738;INFO;Nuova esecuzione dello script
+2021-04-13 16:01:28,625;1618322488.625738;INFO;Esecuzione script estrazioneComuni.py
+2021-04-13 16:01:28,625;1618322488.625738;INFO;Recupero informazioni sui comuni
+2021-04-13 16:01:28,655;1618322488.655745;INFO;Apertura connessione con database: host: 127.0.0.1, user: root password: , database: raccolta_alimenti
+2021-04-13 16:01:28,656;1618322488.656748;INFO;Scrittura su database
+2021-04-13 16:01:31,504;1618322491.504010;INFO;Chiusura connessione con il database
+2021-04-13 16:01:31,504;1618322491.504010;INFO;Esecuzione script estrazioneComuni.py terminata!
+
